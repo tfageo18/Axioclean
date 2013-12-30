@@ -1,4 +1,4 @@
-1- Installer les logiciels tiers suivants :
+﻿1- Installer les logiciels tiers suivants :
 	- Ccleaner : https://www.piriform.com/ccleaner/download/standard
 	- BleachBit : http://bleachbit.sourceforge.net/download/file?file=BleachBit-1.0-setup.exe
 	- CleanUp : http://bleachbit.sourceforge.net/download/file?file=BleachBit-1.0-setup.exe
@@ -12,3 +12,5 @@
 4- Lancer le fichier aLancerLaPremiereFois.bat afin de configurer les différents soft selon les paramétres que vous souhaitez
 
 5- Enjoy!
+
+Pour plus d'informations vous pouvez suivre le wifi présent ici : https://github.com/tfageo18/Axioclean/wiki
